@@ -1,0 +1,11 @@
+html{
+    height: 100%;
+}
+
+.backgroundJS{
+    background-color: #F0DC21;
+}
+
+.hidden{
+    display: none;
+}

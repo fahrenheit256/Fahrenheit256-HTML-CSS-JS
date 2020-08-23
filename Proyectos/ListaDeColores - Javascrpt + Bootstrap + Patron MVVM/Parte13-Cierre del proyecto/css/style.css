@@ -1,0 +1,36 @@
+html{
+    height: 100%;
+}
+
+.backgroundJS{
+    background-color: #F0DC21;
+}
+
+.hidden{
+    display: none;
+}
+
+.svg{
+    width: 1.2rem;
+    height: 1.2rem;
+    margin-left: .5rem;
+    margin-right: .5rem;
+}
+
+.svg_circle{
+    cx : .6rem;
+    cy : .6rem;
+    r: .6rem;
+}
+
+.svg__circle--red{
+    fill: rgb(256, 0, 0);
+}
+
+.svg__circle--green{
+    fill: rgb(0, 128, 0);
+}
+
+.svg__circle--blue{
+    fill: rgb(0, 0, 256);
+}
