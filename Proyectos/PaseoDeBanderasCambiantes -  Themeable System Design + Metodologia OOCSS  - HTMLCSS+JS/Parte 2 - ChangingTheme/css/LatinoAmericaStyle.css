@@ -1,0 +1,105 @@
+/* themeable design systems */
+
+ /* 2) Definir las variables de alto nivel */
+
+.firstColor{
+    background-color: var(--first-color);
+}
+
+.secondColor{
+    background-color: var(--second-color);
+}
+
+.thirdColor{
+    background-color: var(--third-color);
+}
+
+.thirdColorBorder{
+    border-left-color: var(--third-color);
+}
+
+/* 1) Definir los temas */
+
+.theme_argentina{
+    --first-color : skyblue;
+    --second-color : white;
+    --third-color : skyblue;
+}
+
+.theme_brazil{
+    --first-color :#3D9435;
+    --second-color: yellow;
+    --third-color : #3D9435;
+}
+
+.theme_chile{
+    --first-color : blue;
+    --second-color: white;
+    --third-color : red;
+}
+
+.theme_costaRica{
+    --first-color : blue;
+    --second-color: white;
+    --third-color : red;
+}
+
+.theme_cuba{
+    --first-color : blue;
+    --second-color: white;
+    --third-color : red;
+}
+
+.theme_ecuador{
+    --first-color : #F8D020;
+    --second-color: blue;
+    --third-color : red;
+}
+
+.theme_elSalavador{
+    --first-color : #2B6AC4;
+    --second-color: white;
+    --third-color : #2B6AC4;
+}
+
+.theme_republicaDominicana{
+    --first-color : #21559B;
+    --second-color: white;
+    --third-color : red;
+}
+
+.theme_mexico{
+    --first-color : green;
+    --second-color: white;
+    --third-color: red;
+}
+
+.theme_paraguay{
+    --first-color : red;
+    --second-color: white;
+    --third-color: blue;
+}
+
+.theme_peru{
+    --first-color : red;
+    --second-color: white;
+    --third-color: red;
+}
+
+.theme_panama{
+    --first-color : white;
+    --second-color: red;
+    --third-color: #3681D8;
+}
+
+.theme_puertoRico{
+    --first-color : #D1414B;
+    --second-color: white;
+    --third-color : #1C4A9E;
+}
+
+.theme_uruguay{
+    --first-color :blue;
+    --second-color: white;
+    --third-color :blue;
+}
